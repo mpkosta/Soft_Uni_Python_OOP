@@ -29,7 +29,7 @@ print(programmer.change_language("Java", 30))
 
 print(programmer.change_language("Python", 100))
 
-print(programmer.watch_course("Java: zero tohero", "Java", 50))
+print(programmer.watch_course("Java: zero to hero", "Java", 50))
 
 print(programmer.change_language("Python", 100))
 

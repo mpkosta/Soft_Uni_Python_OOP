@@ -26,7 +26,7 @@ class PizzaDelivery:
         if self.ordered:
             return f"Pizza {self.name} already prepared, and we can't make any changes!"
         if ingredient not in self.ingredients:
-            return f"Wrong ingredient selected! We do not use {ingredient} in {self.name}"
+            return f"Wrong ingredient selected! We do not use {ingredient} in {self.name}!"
 
         if quantity > self.ingredients[ingredient]: #we are sure that we have the ingredient
             return f"Please check again the desired quantity of {ingredient}!"
