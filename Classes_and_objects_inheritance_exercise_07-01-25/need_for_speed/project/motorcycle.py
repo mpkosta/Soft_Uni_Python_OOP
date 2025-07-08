@@ -1,4 +1,4 @@
 from project.vehicle import Vehicle
 
-class MotorCycle(Vehicle):
+class Motorcycle(Vehicle):
     pass
