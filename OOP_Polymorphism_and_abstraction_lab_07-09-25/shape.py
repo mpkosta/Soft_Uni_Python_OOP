@@ -30,4 +30,11 @@ class Rectangle(Shape):
         return self.__width * self.__height
 
     def calculate_perimeter(self):
-        return 2 * (self.__width * self.__height)
+        return 2 * (self.__width + self.__height)
+
+
+rectangle = Rectangle(10, 20)
+
+print(rectangle.calculate_area())
+
+print(rectangle.calculate_perimeter())

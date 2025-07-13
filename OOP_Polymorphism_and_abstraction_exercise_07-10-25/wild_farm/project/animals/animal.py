@@ -22,7 +22,7 @@ class Animal(ABC):
 
     @staticmethod
     @abstractmethod
-    def make_sound(self):
+    def make_sound() -> str:
         pass
 
     def feed(self, food: Food):
@@ -34,7 +34,7 @@ class Animal(ABC):
 
 
 class Bird(Animal, ABC):
-    def __init(self, name, weight, wing_size: float):
+    def __init__(self, name, weight, wing_size: float):
         super().__init__(name, weight)
         self.wing_size = wing_size
 
@@ -47,4 +47,4 @@ class Mammal(Animal, ABC):
         self.living_region = living_region
 
     def __repr__(self):
-        return f"{self.__class__.__name__} [{self.name}, {self.weight}, {self.living_region}]"
+        return f"{self.__class__.__name__} [{self.name}, {self.weight}, {self.living_region}, {self.food_eaten}]"

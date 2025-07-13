@@ -15,5 +15,30 @@ class PhotoAlbum:
         for i, page in enumerate(self.photos):
             if len(page) < self.PAGE_PHOTO_LIMIT:
                 page.append(label)
+                page_slot = len(page)
+                return f"{label} photo added successfully on page {i + 1} slot {page_slot}"
+        return "No more free slots"
+
+    def display(self):
+        result = []
+        for page in self.photos:
+            result.append("-----------")
+            if page:
+                result.append(" ".join("[]" for _ in page))
+            else:
+                result.append("")
+        result.append("-----------")
+        return "\n".join(result)
                 
 
+album = PhotoAlbum(2)
+
+print(album.add_photo("baby"))
+print(album.add_photo("first grade"))
+print(album.add_photo("eight grade"))
+print(album.add_photo("party with friends"))
+print(album.photos)
+print(album.add_photo("prom"))
+print(album.add_photo("wedding"))
+
+print(album.display())

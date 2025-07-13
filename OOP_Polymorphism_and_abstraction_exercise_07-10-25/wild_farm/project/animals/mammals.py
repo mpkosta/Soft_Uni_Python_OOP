@@ -22,7 +22,7 @@ class Dog(Mammal):
 
     @property
     def weight_addition_by_animal_type(self):
-        return 0.30
+        return 0.40
 
     @staticmethod
     def make_sound():
@@ -35,7 +35,7 @@ class Cat(Mammal):
 
     @property
     def weight_addition_by_animal_type(self):
-        return 0.40
+        return 0.30
 
     @staticmethod
     def make_sound():

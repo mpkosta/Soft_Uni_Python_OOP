@@ -5,26 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b64476-2303-41fb-8a48-abbd8b8493e2" name="Changes" comment="commit OOP">
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/groups.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/project/animals/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/project/animals/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/project/animals/birds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/project/animals/mammals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/project/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Soft_Uni_Python_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Soft_Uni_Python_OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/zoo/project/bear.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/zoo/project/bear.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/zoo/project/gorilla.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/zoo/project/gorilla.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/zoo/project/mammal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/zoo/project/mammal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/zoo/project/reptile.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/zoo/project/reptile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/food/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/food/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/food/project/fruit.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/food/project/fruit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/hierarchical_inheritance/project/cat.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/hierarchical_inheritance/project/cat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/hierarchical_inheritance/project/dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/hierarchical_inheritance/project/dog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/single_inheritance/project/dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/single_inheritance/project/dog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Class_and_static_method_exercise_07-08-25/photo_album.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Class_and_static_method_exercise_07-08-25/photo_album.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/account.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/project/animals/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/project/animals/animal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/project/animals/mammals.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/project/animals/mammals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_lab_07-09-25/shape.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_lab_07-09-25/shape.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,53 +50,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.account.executor&quot;: &quot;Run&quot;,
-    &quot;Python.circle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.class_book.executor&quot;: &quot;Run&quot;,
-    &quot;Python.class_car.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cup.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.employee.executor&quot;: &quot;Run&quot;,
-    &quot;Python.glass.executor&quot;: &quot;Run&quot;,
-    &quot;Python.image_area.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (3).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mammal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.more tips.executor&quot;: &quot;Run&quot;,
-    &quot;Python.person.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pizza_delivery.executor&quot;: &quot;Run&quot;,
-    &quot;Python.point.executor&quot;: &quot;Run&quot;,
-    &quot;Python.profile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.programmer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rhombus_of_stars.executor&quot;: &quot;Run&quot;,
-    &quot;Python.smartphone.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stack_of_strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.steam_user.executor&quot;: &quot;Run&quot;,
-    &quot;Python.time.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tips.executor&quot;: &quot;Run&quot;,
-    &quot;Python.vehicle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.vet.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mkost/PycharmProjects/Soft_Uni_Python_OOP&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.account.executor": "Run",
+    "Python.circle.executor": "Run",
+    "Python.class_book.executor": "Run",
+    "Python.class_car.executor": "Run",
+    "Python.cup.executor": "Run",
+    "Python.demo.executor": "Run",
+    "Python.employee.executor": "Run",
+    "Python.glass.executor": "Run",
+    "Python.image_area.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main (2).executor": "Run",
+    "Python.main (3).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mammal.executor": "Run",
+    "Python.more tips.executor": "Run",
+    "Python.person.executor": "Run",
+    "Python.photo_album.executor": "Run",
+    "Python.pizza_delivery.executor": "Run",
+    "Python.point.executor": "Run",
+    "Python.profile.executor": "Run",
+    "Python.programmer.executor": "Run",
+    "Python.rhombus_of_stars.executor": "Run",
+    "Python.shape.executor": "Run",
+    "Python.smartphone.executor": "Run",
+    "Python.stack_of_strings.executor": "Run",
+    "Python.steam_user.executor": "Run",
+    "Python.time.executor": "Run",
+    "Python.tips.executor": "Run",
+    "Python.vehicle.executor": "Run",
+    "Python.vet.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/mkost/PycharmProjects/Soft_Uni_Python_OOP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mkost\PycharmProjects\Soft_Uni_Python_OOP\OOP_Polymorphism_and_abstraction_exercise_07-10-25\wild_farm\project" />
@@ -116,8 +106,8 @@
       <recent name="C:\Users\mkost\PycharmProjects\Soft_Uni_Python_OOP\Classes_and_objects_inheritance_lab_06-30-25\food" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.vehicle">
-    <configuration name="image_area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Soft_Uni_Python_OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,12 +116,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_lab_07-09-25" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_lab_07-09-25/image_area.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/account.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,12 +139,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes_and_objects_exercise_06-26-25/spoopify" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Class_and_static_method_exercise_07-08-25/document_management" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes_and_objects_exercise_06-26-25/spoopify/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Class_and_static_method_exercise_07-08-25/document_management/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Soft_Uni_Python_OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,12 +162,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="photo_album" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Soft_Uni_Python_OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,12 +185,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/need_for_speed" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Class_and_static_method_exercise_07-08-25" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/need_for_speed/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Class_and_static_method_exercise_07-08-25/photo_album.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +199,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vehicle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="shape" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Soft_Uni_Python_OOP" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,12 +208,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_lab_07-09-25" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/vehicle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_lab_07-09-25/shape.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.vehicle" />
-        <item itemvalue="Python.image_area" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.photo_album" />
+        <item itemvalue="Python.shape" />
+        <item itemvalue="Python.account" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +257,7 @@
       <workItem from="1751382210527" duration="8258000" />
       <workItem from="1751468434651" duration="4381000" />
       <workItem from="1751705304044" duration="3478000" />
-      <workItem from="1752160117527" duration="8101000" />
+      <workItem from="1752160117527" duration="15321000" />
     </task>
     <task id="LOCAL-00001" summary="commit OOP">
       <option name="closed" value="true" />
@@ -323,6 +313,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$person.coverage" NAME="person Coverage Results" MODIFIED="1751470984510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes_and_objects_encapsulation_lab_07-02-25" />
+    <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$photo_album.coverage" NAME="photo_album Coverage Results" MODIFIED="1752419698683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP_Class_and_static_method_exercise_07-08-25" />
     <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$time.coverage" NAME="time Coverage Results" MODIFIED="1750953157944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes_and_objects_exercise_06-26-25" />
     <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1751725810029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/need_for_speed" />
     <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$pizza_delivery.coverage" NAME="pizza_delivery Coverage Results" MODIFIED="1751699083867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes_and_objects_exercise_06-26-25" />
@@ -334,11 +325,12 @@
     <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1751708555067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes_and_objects_exercise_06-26-25/spoopify" />
     <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$class_car.coverage" NAME="class_car Coverage Results" MODIFIED="1751702166251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_steps_in_OOP_Lab_06-23-25" />
     <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$smartphone.coverage" NAME="smartphone Coverage Results" MODIFIED="1750870530851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes_and_objects_lab_06-25-25" />
-    <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$account.coverage" NAME="account Coverage Results" MODIFIED="1750954998610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes_and_objects_exercise_06-26-25" />
+    <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$account.coverage" NAME="account Coverage Results" MODIFIED="1752417407604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25" />
     <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$vehicle.coverage" NAME="vehicle Coverage Results" MODIFIED="1752160826049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25" />
     <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$vet.coverage" NAME="vet Coverage Results" MODIFIED="1750952234723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes_and_objects_exercise_06-26-25" />
-    <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$main.coverage" NAME="main Coverage Results" MODIFIED="1751703653244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes_and_objects_exercise_06-26-25/guild_system" />
+    <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$main.coverage" NAME="main Coverage Results" MODIFIED="1752416563337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm" />
     <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$cup.coverage" NAME="cup Coverage Results" MODIFIED="1751697863567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_steps_in_OOP_Exercise_06-24-25" />
+    <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$shape.coverage" NAME="shape Coverage Results" MODIFIED="1752417821360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_lab_07-09-25" />
     <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$class_book.coverage" NAME="class_book Coverage Results" MODIFIED="1751702163602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_steps_in_OOP_Lab_06-23-25" />
     <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$image_area.coverage" NAME="image_area Coverage Results" MODIFIED="1752077458694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_lab_07-09-25" />
     <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1751725380354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters" />
