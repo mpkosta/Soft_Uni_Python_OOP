@@ -18,7 +18,7 @@ class Zoo:
         self.workers: list[Worker] = []
 
     def add_animal(self, animal, price):
-        if len(self.animals) >= self.__animal_capacity:
+        if self.__animal_capacity <= len(self.animals):
             return "Not enough space for animal"
         if self.__budget < price:
             return "Not enough budget"
@@ -28,11 +28,10 @@ class Zoo:
 
 
 
-    def hire_worker(self, worker):
-        if self.__workers_capacity <= 0:
+    def hire_worker(self, worker: Worker):
+        if self.__workers_capacity <= len(self.workers):
             return "Not enough space for worker"
         self.workers.append(worker)
-        self.__workers_capacity -= 1
         return f"{worker.name} the {worker.__class__.__name__} hired successfully"
 
     def fire_worker(self, worker_name):
@@ -45,15 +44,15 @@ class Zoo:
 
     def pay_workers(self):
         total_salaries = sum(worker.salary for worker in self.workers)
-        if self.__budget < 0:
+        if self.__budget < total_salaries:
             return "You have no budget to pay your workers. They are unhappy"
         self.__budget -= total_salaries
-        return f"You have payed your workers. They are happy. Budget left: {self.__budget}"
+        return f"You payed your workers. They are happy. Budget left: {self.__budget}"
 
     def tend_animals(self):
-        if self.__budget < 0:
-            return "You have no budget to tend the animals. They are unhappy."
         total_cost_tend_animals = sum(animal.money_for_care for animal in self.animals)
+        if self.__budget < total_cost_tend_animals:
+            return "You have no budget to tend the animals. They are unhappy."
         self.__budget -= total_cost_tend_animals
         return f"You tended all the animals. They are happy. Budget left: {self.__budget}"
 

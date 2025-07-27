@@ -1,140 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ee715b4-cffa-4e99-9e87-5576525353ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_SOLID_exercise_07-15-25/after_refactor/emails.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_SOLID_exercise_07-15-25/after_refactor/media_management_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_SOLID_exercise_07-15-25/after_refactor/notification_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_SOLID_exercise_07-15-25/after_refactor/payment_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_SOLID_exercise_07-15-25/after_refactor/prisoner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_SOLID_exercise_07-15-25/after_refactor/shapes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_SOLID_exercise_07-15-25/after_refactor/workers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_SOLID_exercise_07-15-25/after_refactor/workers_updated.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_SOLID_exercise_07-15-25/before_refactor/01_workers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_SOLID_exercise_07-15-25/before_refactor/02_workers_updated.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_SOLID_exercise_07-15-25/before_refactor/03_prisoner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_SOLID_exercise_07-15-25/before_refactor/04_shapes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_SOLID_exercise_07-15-25/before_refactor/05_emails.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_SOLID_exercise_07-15-25/before_refactor/06_media_management_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_SOLID_exercise_07-15-25/before_refactor/07_notification_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_SOLID_exercise_07-15-25/before_refactor/08_payment_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Class_and_static_method_exercise_07-08-25/document_management/document_management.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Class_and_static_method_exercise_07-08-25/document_management/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Class_and_static_method_exercise_07-08-25/document_management/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Class_and_static_method_exercise_07-08-25/document_management/project/category.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Class_and_static_method_exercise_07-08-25/document_management/project/document.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Class_and_static_method_exercise_07-08-25/document_management/project/storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Class_and_static_method_exercise_07-08-25/document_management/project/topic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Class_and_static_method_exercise_07-08-25/gym/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Class_and_static_method_exercise_07-08-25/gym/project/customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Class_and_static_method_exercise_07-08-25/gym/project/equipment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Class_and_static_method_exercise_07-08-25/photo_album.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/groups.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/project/animals/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/project/animals/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/project/animals/birds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/project/animals/mammals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/project/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_exercise_07-10-25/wild_farm/wild_farm.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_lab_07-09-25/image_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_lab_07-09-25/playing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Polymorphism_and_abstraction_lab_07-09-25/shape.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_decorators_exercise_07-22-25/bold_italic_underline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_decorators_exercise_07-22-25/cache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_decorators_exercise_07-22-25/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_decorators_exercise_07-22-25/even_parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_decorators_exercise_07-22-25/execution_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_decorators_exercise_07-22-25/html_tags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_decorators_exercise_07-22-25/logged.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_decorators_exercise_07-22-25/results.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_decorators_exercise_07-22-25/store_results.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_decorators_exercise_07-22-25/type_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_iterators_and_generators_exercise_07-17-25/countdown_iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_iterators_and_generators_exercise_07-17-25/dictionary_iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_iterators_and_generators_exercise_07-17-25/fibonacci_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_iterators_and_generators_exercise_07-17-25/sequence_repeat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_iterators_and_generators_exercise_07-17-25/take_halves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_iterators_and_generators_exercise_07-17-25/take_skip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_iterators_and_generators_lab_07-16-25/custom_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_iterators_and_generators_lab_07-16-25/generator_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_iterators_and_generators_lab_07-16-25/reverse_iter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_iterators_and_generators_lab_07-16-25/reverse_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_iterators_and_generators_lab_07-16-25/squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_iterators_and_generators_lab_07-16-25/vowels.py" afterDir="false" />
+    <list default="true" id="301091df-0719-4536-a193-53f24f9d3541" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant/project/beverage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant/project/beverage/beverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant/project/beverage/coffee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant/project/beverage/cold_beverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant/project/beverage/hot_beverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant/project/beverage/tea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant/project/food/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant/project/food/cake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant/project/food/dessert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant/project/food/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant/project/food/main_dish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant/project/food/salmon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant/project/food/soup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant/project/food/starter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant/project/product.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Soft_Uni_Python_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Soft_Uni_Python_OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/need_for_speed/need_for_speed.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/need_for_speed/need_for_speed.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/need_for_speed/project/cross_motorcycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/need_for_speed/project/cross_motorcycle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/need_for_speed/project/motorcycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/need_for_speed/project/motorcycle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/need_for_speed/project/race_motorcycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/need_for_speed/project/race_motorcycle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/need_for_speed/project/vehicle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/need_for_speed/project/vehicle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/players_and_monsters.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/players_and_monsters.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/project/blade_knight.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/project/blade_knight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/project/dark_knight.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/project/dark_knight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/project/dark_wizard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/project/dark_wizard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/project/elf.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/project/elf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/project/knight.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/project/knight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/project/muse_elf.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/project/muse_elf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/project/soul_master.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/project/soul_master.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/project/wizard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/players_and_monsters/project/wizard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/zoo/project/bear.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/zoo/project/bear.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/zoo/project/gorilla.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/zoo/project/gorilla.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/zoo/project/mammal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/zoo/project/mammal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/zoo/project/reptile.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_inheritance_exercise_07-01-25/zoo/project/reptile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/food/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/food/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/food/project/fruit.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/food/project/fruit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/hierarchical_inheritance/project/cat.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/hierarchical_inheritance/project/cat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/hierarchical_inheritance/project/dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/hierarchical_inheritance/project/dog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/single_inheritance/project/dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_inheritance_lab_06-30-25/single_inheritance/project/dog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/wild_cat_zoo/project/zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/wild_cat_zoo/project/zoo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/wild_cat_zoo/wildcatzoo.zip" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/wild_cat_zoo/wildcatzoo.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mpkosta"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mpkosta&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mpkosta/Soft_Uni_Python_OOP.git",
-    "accountId": "97959a60-c325-4a91-9e2a-79d1160183c7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mpkosta/Soft_Uni_Python_OOP.git&quot;,
+    &quot;accountId&quot;: &quot;97959a60-c325-4a91-9e2a-79d1160183c7&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
-  <component name="ProjectId" id="30S2DZjou3nloKNUgYodKCw5uua" />
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="30S2HNuYqviIjsl4iifPFsylHNd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/47929/Documents/GitHub/Soft_Uni_Python_OOP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Soft_Uni_Python_OOP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -145,16 +121,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0ee715b4-cffa-4e99-9e87-5576525353ff" name="Changes" comment="" />
-      <created>1753606535777</created>
+      <changelist id="301091df-0719-4536-a193-53f24f9d3541" name="Changes" comment="" />
+      <created>1753606564757</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1753606535777</updated>
-      <workItem from="1753606536555" duration="32000" />
+      <updated>1753606564757</updated>
+      <workItem from="1753606565834" duration="2238000" />
+      <workItem from="1753609247610" duration="2841000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Soft_Uni_Python_OOP$main.coverage" NAME="main Coverage Results" MODIFIED="1753610911678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP_encapsulation_exercise_07-03-25/restaurant" />
   </component>
 </project>
