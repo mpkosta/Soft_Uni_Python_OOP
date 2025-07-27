@@ -1,5 +1,5 @@
-from project.motorcycle import MotorCycle
+from project.motorcycle import Motorcycle
 
 
-class CrossMotorCycle(MotorCycle):
+class CrossMotorcycle(Motorcycle):
     pass

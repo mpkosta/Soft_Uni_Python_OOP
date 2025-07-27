@@ -1,5 +1,5 @@
-from project.motorcycle import MotorCycle
+from project.motorcycle import Motorcycle
 
 
-class RaceMotorCycle(MotorCycle):
+class RaceMotorcycle(Motorcycle):
     DEFAULT_FUEL_CONSUMPTION = 8

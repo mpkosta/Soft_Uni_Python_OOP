@@ -7,7 +7,6 @@ class Vehicle:
         self.fuel_consumption = self.DEFAULT_FUEL_CONSUMPTION #call from self because if it is Vehicle. - then all inherits will take the 1.25 setting always
 
     def drive(self, kilometers: int):
-        consumed_fuel = kilometers * self.fuel_consumption
-        #distance_travelled ?
-        if self.fuel >= consumed_fuel:
-            self.fuel -= consumed_fuel
+        driven_cost = kilometers * self.fuel_consumption
+        if self.fuel >= driven_cost:
+            self.fuel -= driven_cost
